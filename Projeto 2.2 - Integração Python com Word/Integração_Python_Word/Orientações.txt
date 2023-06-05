@@ -1,0 +1,5 @@
+Este projeto faz a integração do Python com Word (docx). Usando a biblioteca Python-DOCX.
+1. Criando texto e salvando arquivo .docx
+
+
+2. Carregando um arquivo .docx e alterando as informações.
